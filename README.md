@@ -1,0 +1,1 @@
+# thesis-ai-rules-rewrite
